@@ -1,0 +1,2 @@
+Hello,
+ New project {!Project_Details__c.Project_Description__c} is started on {!Project_Details__c.Start_Date__c}.

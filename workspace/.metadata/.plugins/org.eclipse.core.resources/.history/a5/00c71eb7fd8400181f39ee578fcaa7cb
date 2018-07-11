@@ -1,0 +1,3 @@
+trigger discount on Account (before insert) {
+    
+}
