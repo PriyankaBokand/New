@@ -1,2 +1,0 @@
-Hello {!Lead.OwnerFullName}, 
-   Last Date for follow up for  {!Lead.LastName} was {!Lead.follow_up__c}.Please follow up the lead.

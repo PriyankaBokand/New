@@ -1,5 +1,0 @@
-{!Today}
-
-Dear {!Employee__c.Manager__c},
-
-{!Employee__c.Full_Name__c} is deactivated.
