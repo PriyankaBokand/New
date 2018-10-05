@@ -1,2 +1,0 @@
-Hello {!Project_Details__c.Manager__c} ,
-   Project {!Project_Details__c.Project_Description__c} has end date on {!Project_Details__c.End_Date__c}.
